@@ -27,7 +27,7 @@ scanimage --resolution 300 --mode color --format png > /tmp/test-epson.png
 ## test scan with different scanner in the network
 
 ```bash
-scanimage -d 'airscan:w1:EPSON ET-3750 Series' --resolution 300 --mode color --format png > /tmp/test-epson_with_sanner_name.png
+scanimage -d 'airscan:w1:EPSON ET-3750 Series' --resolution 300 --mode color --format png > /tmp/test-epson_with_scanner_name.png
 ```
 
 sorry my english is so bad
